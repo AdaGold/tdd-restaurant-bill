@@ -31,7 +31,7 @@ This class will __not__ be using any user input.
 ## Get Started
 
 
-Start working in restaurant_bill_spec.rb by setting up a ```describes``` block.
+Start working in restaurant_bill_test.rb by setting up a ```describes``` block.
 
 Write a test, run rake, then uncomment only the code that is needed to pass that test in restaurant_bill.rb. Get that test to pass before moving on to the next one. Your first tests should follow the order of the list below.
 
